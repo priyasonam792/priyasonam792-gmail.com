@@ -23,8 +23,7 @@ A web-based system for managing college events and student registrations.
 ### 💻 More projects coming soon...
 
 ## 📫 Connect With Me
-- Gmail
-- Github
+
   
 - LinkedIn
 - GitHub
